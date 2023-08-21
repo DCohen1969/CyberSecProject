@@ -1,0 +1,13 @@
+{
+   "autoload": {
+        "psr-4": {
+            "Application\\": "Application/",
+            "Configuration\\": "Configuration/",
+            "Model\\": "Model/",
+            "View\\": "View/",
+            "Controller\\": "Controller/"
+        }
+    },
+   "require": {
+   }
+}
